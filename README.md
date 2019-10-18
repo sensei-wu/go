@@ -25,9 +25,9 @@ Use standard go tool
 **Zenifer Cheruveettil**
 
 * [website](http://zenifer.com)
-* [github] (https://github.com/sensei-wu/)
-* [gitlab] (https://gitlab.com/sensei-wu)
-* [linkedin] (https://www.linkedin.com/in/zencv/)
+* [github](https://github.com/sensei-wu/)
+* [gitlab](https://gitlab.com/sensei-wu)
+* [linkedin](https://www.linkedin.com/in/zencv/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
