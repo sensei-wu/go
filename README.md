@@ -1,6 +1,6 @@
 # Zen's Go lab
 
-Contains many fun and learning code written in [Golang](https://golang.org/).
+Contains many fun and education code written in [Golang](https://golang.org/).
 
 Includes an assembler written for HACK machine language, which is part of [nand2tetris project](https://www.nand2tetris.org/)
 
