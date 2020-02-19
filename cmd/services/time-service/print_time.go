@@ -21,6 +21,9 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		panic(err)
 	}
 
+	version := "v1"
+
 	w.Write([]byte(fmt.Sprintf("Time now is: %s\n", t.Format(time.RFC850))))
 	w.Write([]byte(fmt.Sprintf("Hostname: %s\n", hostname)))
+	w.Write([]byte(fmt.Sprintf("Version: %s\n", version)))
 }
