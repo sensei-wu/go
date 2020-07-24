@@ -1,0 +1,5 @@
+package pkgtest
+
+func main() {
+
+}
